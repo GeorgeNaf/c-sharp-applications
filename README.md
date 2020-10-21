@@ -1,2 +1,2 @@
-# Csharp_applications
+# Csharp_exercices
 Csharp_applications
