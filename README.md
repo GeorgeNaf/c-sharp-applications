@@ -1,2 +1,2 @@
-# c-sharp-applications
-c sharp applications
+# C-sharp-applications
+C sharp applications
